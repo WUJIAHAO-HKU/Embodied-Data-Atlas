@@ -1,10 +1,10 @@
+[![Embodied Data Atlas — 机器人与金色空间数据网络概念封面](assets/readme-cover.png)](https://embodied-data-atlas.aqua-goat-8174.chatgpt.site/)
+
 # Embodied Data Atlas
 
 **具身智能数据集选型平台 · Discover, compare and trace embodied AI datasets**
 
 [访问网站 / Visit the Atlas](https://embodied-data-atlas.aqua-goat-8174.chatgpt.site/) · [使用指南](docs/guide.md) · [反馈与数据提交](https://github.com/WUJIAHAO-HKU/Embodied-Data-Atlas/issues/new/choose) · [更新日志](CHANGELOG.md)
-
-![Embodied Data Atlas](assets/social-card.png)
 
 Embodied Data Atlas 面向具身智能研究者，提供数据集检索、任务筛选、候选对比与官方来源核查。覆盖感知、推理规划、导航、操作、运动控制和综合任务，帮助研究者按具体实验条件选择数据。
 
