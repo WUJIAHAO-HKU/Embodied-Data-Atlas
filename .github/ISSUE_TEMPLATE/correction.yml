@@ -1,0 +1,27 @@
+name: Correct evidence or metadata
+description: Report a factual error, duplicate, changed release or misleading media.
+title: "[Evidence] "
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record ID and affected field
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Current claim and proposed correction
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Supporting primary source, section and version
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact on filtering, comparisons, recipes or related records
+

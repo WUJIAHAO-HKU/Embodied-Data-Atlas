@@ -1,0 +1,27 @@
+name: Interface or accessibility bug
+description: Report a broken research workflow or presentation issue.
+title: "[Bug] "
+body:
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Page URL and reproduction steps
+      description: Include query parameters when relevant; remove sensitive content.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and observed behavior
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser, operating system, viewport and language
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshot or console details
+      description: Keyboard, screen-reader, reduced-motion and network conditions are useful.
+

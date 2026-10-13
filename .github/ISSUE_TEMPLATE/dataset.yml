@@ -1,0 +1,53 @@
+name: Propose a dataset or release
+description: Submit a source-backed family, release, subset or collection.
+title: "[Dataset] "
+body:
+  - type: input
+    id: identity
+    attributes:
+      label: Dataset name, official URL and release
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Resource relationship
+      options:
+        - New dataset family
+        - New release of an existing family
+        - Subset or derived representation
+        - Collection
+        - Unsure
+    validations:
+      required: true
+  - type: textarea
+    id: research
+    attributes:
+      label: Research use and defining properties
+      description: Tasks, environment, embodiment, observations and action representation.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Primary sources and relevant sections
+      description: Link official paper, documentation and distribution; state what each supports.
+    validations:
+      required: true
+  - type: textarea
+    id: access
+    attributes:
+      label: Data license, download requirements and release scope
+      description: A code license is not automatically a data license. Unknown is acceptable.
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Official demonstration and its scope
+      description: Dataset sample, project demonstration or parent footage; leave unknown explicitly.
+  - type: textarea
+    id: lineage
+    attributes:
+      label: Related records, overlap and remaining unknowns
+

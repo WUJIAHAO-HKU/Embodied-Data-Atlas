@@ -1,0 +1,38 @@
+name: Sample recipe result
+description: Report a real sample-loading success, failure or upstream change.
+title: "[Recipe] "
+body:
+  - type: input
+    id: recipe
+    attributes:
+      label: Recipe ID, dataset and upstream revision
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Operating system, runtime and exact dependency versions
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: Exact command and public sample source
+      description: Remove credentials, signed private URLs and personal file paths.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Exit status, observed result, sample size and checksum
+      description: Attach a sanitized execution report. Do not attach restricted training data.
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Evidence scope
+      options:
+        - label: This report distinguishes actual sample loading from metadata retrieval or synthetic fixtures.
+          required: true
+
