@@ -1,10 +1,10 @@
-[![Embodied Data Atlas — 机器人与金色空间数据网络概念封面](assets/readme-cover.png)](https://embodied-data-atlas.aqua-goat-8174.chatgpt.site/)
+[![Embodied Data Atlas — 机器人与金色空间数据网络概念封面](assets/readme-cover.png)](https://embodieddataatlas.com/)
 
 # Embodied Data Atlas
 
 **具身智能数据集选型平台 · Discover, compare and trace embodied AI datasets**
 
-[访问网站 / Visit the Atlas](https://embodied-data-atlas.aqua-goat-8174.chatgpt.site/) · [使用指南](docs/guide.md) · [反馈与数据提交](https://github.com/WUJIAHAO-HKU/Embodied-Data-Atlas/issues/new/choose) · [更新日志](CHANGELOG.md)
+[访问网站 / Visit the Atlas](https://embodieddataatlas.com/) · [使用指南](docs/guide.md) · [反馈与数据提交](https://github.com/WUJIAHAO-HKU/Embodied-Data-Atlas/issues/new/choose) · [更新日志](CHANGELOG.md)
 
 Embodied Data Atlas 面向具身智能研究者，提供数据集检索、任务筛选、候选对比与官方来源核查。覆盖感知、推理规划、导航、操作、运动控制和综合任务，帮助研究者按具体实验条件选择数据。
 
@@ -12,7 +12,7 @@ Embodied Data Atlas 面向具身智能研究者，提供数据集检索、任务
 
 ## 开始使用
 
-1. [打开网站](https://embodied-data-atlas.aqua-goat-8174.chatgpt.site/)，点击“开始使用”。
+1. [打开网站](https://embodieddataatlas.com/)，点击“开始使用”。
 2. 按研究任务进入预设筛选，或搜索数据集名称、论文和关键词。
 3. 检查数据类型、标注、许可和来源证据，将候选加入对比。
 4. 根据官方入口获取数据；引用时优先使用原始数据集论文。
@@ -24,7 +24,7 @@ Embodied Data Atlas 面向具身智能研究者，提供数据集检索、任务
 - **文献溯源**：区分主题相关论文、引用文献与已核验的数据使用证据。
 - **官方演示与加载说明**：查看归属明确的演示素材与带执行状态的样本记录。
 
-当前目录与覆盖情况以[网站编目说明](https://embodied-data-atlas.aqua-goat-8174.chatgpt.site/about/)为准。收录不代表穷尽所有具身研究数据；引用数量不等同于数据集使用率，未知信息不按零值处理。
+当前目录与覆盖情况以[网站编目说明](https://embodieddataatlas.com/about/)为准。收录不代表穷尽所有具身研究数据；引用数量不等同于数据集使用率，未知信息不按零值处理。
 
 ## 支持与反馈
 

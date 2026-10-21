@@ -13,4 +13,4 @@
 - 增加引用来源、采集完整度和可追溯记录。
 - 增加反馈邮箱 1258826823@qq.com 与小红书账号 962874093。
 
-完整的数据目录更新见[网站更新日志](https://embodied-data-atlas.aqua-goat-8174.chatgpt.site/updates/)。
+完整的数据目录更新见[网站更新日志](https://embodieddataatlas.com/updates/)。
