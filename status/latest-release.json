@@ -1,8 +1,8 @@
 {
-  "release": "f8d7c55a458ab3eee607fff70dea7e03049f8a6d4265c1db525858a196511d53",
-  "sites_version": "appgprj_6acc66f37c4c8191b69883ff9400f75d~appgver_91045909c1808191ac349913bf3e1669",
+  "release": "2300e92b09b2784a571fcee9da05a63b7cfb86723d8613cce8d57fa6895f14db",
+  "sites_version": "appgprj_6acc66f37c4c8191b69883ff9400f75d~appgver_ff5be923272c8191a2a383f01937e5e2",
   "sites_url": "https://embodied-data-atlas.aqua-goat-8174.chatgpt.site",
   "production_url": "https://embodieddataatlas.com",
-  "received_at": "2026-10-22T06:38:17Z",
+  "received_at": "2026-10-22T07:08:13Z",
   "status": "synchronized"
 }
